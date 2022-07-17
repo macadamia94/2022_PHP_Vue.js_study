@@ -1,4 +1,4 @@
-# vue-todo-pjt
+# vue-movie-pjt
 
 ## Project setup
 ```
